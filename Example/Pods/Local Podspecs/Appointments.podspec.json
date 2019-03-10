@@ -1,0 +1,22 @@
+{
+  "name": "Appointments",
+  "version": "0.1.0",
+  "summary": "This will be used to create/edit Appointments module.",
+  "description": "This will be used to create/edit Appointments module.",
+  "homepage": "https://github.com/hemantchauhan/Appointments",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hemantchauhan": "hemantc87@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hemantchauhan/Appointments.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Appointments/Classes/**/*"
+}

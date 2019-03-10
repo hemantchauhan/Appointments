@@ -1,0 +1,16 @@
+PODS:
+  - Appointments (0.1.0)
+
+DEPENDENCIES:
+  - Appointments (from `../`)
+
+EXTERNAL SOURCES:
+  Appointments:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Appointments: f40f77cd0b9be714194f1696e9ec8dda4c5219e9
+
+PODFILE CHECKSUM: 5eaac645356b6f038de825b76c382ad843095579
+
+COCOAPODS: 1.6.1

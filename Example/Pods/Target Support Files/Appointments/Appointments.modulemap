@@ -1,0 +1,6 @@
+framework module Appointments {
+  umbrella header "Appointments-umbrella.h"
+
+  export *
+  module * { export * }
+}
