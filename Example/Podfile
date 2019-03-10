@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Appointments_Example' do
+  pod 'Appointments', :path => '../'
+
+  target 'Appointments_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
